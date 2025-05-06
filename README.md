@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashnakshetty
-- 👀 I’m interested in a lot of things like Music, Books, Art, Painting, Video Making 
+- 👀 I’m interested in a lot of things like Music, Books, Art, Writing, Painting, Video Making 
 - 🌱 I’m currently learning Data Science because I'm passionate to keep making applications infused with AI because it gives me a feeling of being a scientist (an inventor of things!)
 - 📫 How to reach me through my mail! 
 - 😄 Pronouns: She/ Her
